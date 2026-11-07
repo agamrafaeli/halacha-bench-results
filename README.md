@@ -2,7 +2,7 @@
 
 *1 November 2026, updated 6 November 2026* · Hebrew summary: [בעברית, בקצרה](#בעברית-בקצרה)
 
-> **Fork proposal:** a [historical semicha reference track](#historical-semicha-reference-track-proposal) is proposed
+> **Proposal:** a [historical semicha reference track](#historical-semicha-reference-track-proposal) is proposed
 > for future benchmarking. It is metadata-only, with no new Q&A or scores. The original results below are unchanged.
 
 **6 November:** three of Meta's Muse models added, run through Meta's Muse Code CLI: Muse Wonder Full, Muse Wonder
@@ -273,7 +273,7 @@ any later change can be detected.
 
 ## Historical semicha reference track (proposal)
 
-This fork proposes a separate **historical reference and calibration track**, with a 36-question pilot:
+This proposal describes a separate **historical reference and calibration track**, with a 36-question pilot:
 12 from the [Nisan 5765 Issur veHeter paper with answers](https://www.smicha.co.il/gallery/mivchanim_categories-17.doc),
 12 across sittings in [Orel Shivni's Issur veHeter collection](https://www.smicha.co.il/gallery/mivchanim_categories-46.docx),
 and 12 from [Adiel Kapach's Niddah collection](https://www.smicha.co.il/gallery/mivchanim_categories-42.pdf).
@@ -289,7 +289,7 @@ These are proposed allocations; no questions have been selected.
 
 This proposed pilot is distinct from both the **60 Cheshvan 5787 test questions** and the **36 Iyar 5786 development
 questions** already committed in `bundle/`. The bundle and original results are unchanged. No evaluation harness
-or ingestion pipeline is supplied by this proposal, and upstream has not adopted it.
+or ingestion pipeline is supplied by this proposal; no new benchmark release is implied.
 
 ## Contact
 
@@ -320,7 +320,7 @@ developer; model names are their owners' trademarks.
 halachabench@gmail.com. המיזם HalachaBench עצמאי:
 אין לו קשר לרבנות הראשית לישראל, והוא אינו פועל מטעמה או בחסותה.
 
-### הצעה במאגר המפוצל: מסלול ייחוס היסטורי
+### הצעה: מסלול ייחוס היסטורי
 
 מוצע מסלול נפרד לכיול ולהערכה עתידית, עם פיילוט מתוכנן של 36 שאלות: 12 באיסור והיתר מניסן תשס״ה,
 12 מאוסף התשובות של אוראל שיבני באיסור והיתר ממועדים שונים, ו־12 מאוסף התשובות של עדיאל קאפח בנידה.
@@ -331,6 +331,6 @@ halachabench@gmail.com. המיזם HalachaBench עצמאי:
 ולבדוק כפילויות וחפיפה. התשובות הן מקורות ייחוס מיוחסים, ולא מפתחות רשמיים שאומתו.
 אלה חומרים פומביים שעלולים להופיע בנתוני האימון; תוצאותיהם יוצגו בנפרד.
 הפיילוט אינו 36 שאלות הפיתוח מאייר תשפ״ו ואינו משנה את 60 שאלות המבחן מחשוון תשפ״ז, את הציונים או את החבילה החתומה.
-זו הצעה של המאגר המפוצל, שטרם אומצה על ידי הפרויקט המקורי; אין כאן מנגנון הרצה חדש.
+זו הצעה למסלול עתידי, ולא פרסום של מבחן חדש; אין כאן מנגנון הרצה חדש.
 
 </div>
